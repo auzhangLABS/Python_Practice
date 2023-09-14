@@ -1,7 +1,8 @@
 #Code Challenge Parse Staus JSON
 import json
 
-#since this is a json file
+
+#since this is a json file used JSON package
 new_data= """
 { 
   "Status": "Healthy",
